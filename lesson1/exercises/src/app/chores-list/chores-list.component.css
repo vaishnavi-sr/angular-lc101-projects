@@ -1,0 +1,11 @@
+h3{
+    font-size: x-large;
+    color: rgb(10, 163, 35);
+    text-decoration: underline;
+    text-align: justify;
+}
+ul{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
