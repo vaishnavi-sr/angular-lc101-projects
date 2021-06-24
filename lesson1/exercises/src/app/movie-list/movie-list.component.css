@@ -1,0 +1,14 @@
+h3{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30;
+}
+li{
+    text-align: center;
+    font-size: medium;
+}
+div{
+    text-align: center;
+    border:5px ridge rgb(248, 233, 233);
+    padding: auto;
+}
