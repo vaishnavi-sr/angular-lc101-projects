@@ -3,8 +3,9 @@ h3 {
 }
 
 img {
-width: 250px;
-margin:10px 0px;
+   size: 25px; ;
+width: 50px;
+margin:1px 0px;
 margin-inline-start: 1em;
 margin-inline-end: 1em;
 }

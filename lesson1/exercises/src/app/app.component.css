@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(19, 19, 165);
+    text-overflow: initial;
+    padding: auto;
+    margin: 10px;
+    text-decoration: underline;
+}
+.footer{
+    text-align:center;
+    line-break: auto;
+    text-decoration: overline;
+    
+}
