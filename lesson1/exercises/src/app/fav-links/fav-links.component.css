@@ -6,5 +6,9 @@ h2{
 .footer{
     text-align: center;
     font-family: fantasy;
-    text-overflow: ellipsis;
+    text-overflow: initial;
+}
+ol{
+    text-align: left;
+    text-decoration: underline;
 }
