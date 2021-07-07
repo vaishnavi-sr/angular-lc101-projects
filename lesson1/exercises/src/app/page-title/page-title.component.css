@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(80, 47, 226);
+    text-align: center;
+    text-decoration: underline;
+    size: 25px;
+ }
+ .title{
+     size:50px;
+     text-align: center;
+     color: rgb(189, 10, 46);
+     text-indent: 0vh;
+
+ }
+ p{
+     font-size: small;
+
+ }
