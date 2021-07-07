@@ -2,10 +2,12 @@ h3{
     text-align: center;
     color: blueviolet;
     font-size: 30;
+    text-align: left;
 }
 li{
     text-align: center;
     font-size: medium;
+    text-align: left;
 }
 div{
     text-align: center;

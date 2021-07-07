@@ -7,6 +7,8 @@ width: 250px;
 margin:10px 0px;
 margin-inline-start: 1em;
 margin-inline-end: 1em;
+float: none;
+image-orientation: 0deg;
 }
 
 .photos {
